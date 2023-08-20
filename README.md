@@ -39,4 +39,4 @@ make
 
 ## Автор
 
-Проект "Client_Server_Infotecs" разработал [Эрадж](https://github.com/ErajKarimov).
+Проект "Client_Server_CPP" разработал [Эрадж](https://github.com/ErajKarimov).
