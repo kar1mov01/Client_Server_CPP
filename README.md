@@ -1,6 +1,6 @@
-# Тестовое задание "Client_Server_Infotecs"
+# Задание "Client_Server_CPP"
 
-"Client_Server_Infotecs" - это клиент-сервер. Проект состоит из заголовочных файлов `Network.hpp`, `Client.hpp` и `Server.hpp`, а также файлов с исходными кодами `main_server.cpp` и `main_client.cpp`. Используется C++20.
+"Client_Server_CPP" - это клиент-сервер. Проект состоит из заголовочных файлов `Network.hpp`, `Client.hpp` и `Server.hpp`, а также файлов с исходными кодами `main_server.cpp` и `main_client.cpp`. Используется C++20.
 
 ## Описание файлов
 
